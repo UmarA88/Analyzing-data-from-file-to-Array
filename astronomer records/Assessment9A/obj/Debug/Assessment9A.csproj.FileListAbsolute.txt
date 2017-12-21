@@ -1,0 +1,9 @@
+H:\Assessment9A\Assessment9A\bin\Debug\Assessment9A.exe.config
+H:\Assessment9A\Assessment9A\bin\Debug\Assessment9A.exe
+H:\Assessment9A\Assessment9A\bin\Debug\Assessment9A.pdb
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.csprojResolveAssemblyReference.cache
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.Properties.Resources.resources
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.csproj.GenerateResource.Cache
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.exe
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.pdb
+H:\Assessment9A\Assessment9A\obj\Debug\Assessment9A.StarsBrightnessAnalysisApplicationForm.resources
