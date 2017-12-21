@@ -1,0 +1,21 @@
+Star Name  Magnitude
+OV Boo  14.95
+LV 426  9.91
+Fury 161    6.32
+XS Dra  8.00
+Hip 23429   12.19
+52 Eridani  12.11
+Hip 43213   11.99
+Chi UMa 10.45
+Xi UMa  3.27
+Dubhe   2.81
+Asnin 491   0.14
+Beta Umi    8.85
+Centaurus B 6.02
+YZ Cnc  15.07
+Gliese 754  18.50
+Epsilon Scorpii 10.00
+Markab  9.33
+Phecda  11.68
+Tau Ceti    19.23
+Spica   2.10
